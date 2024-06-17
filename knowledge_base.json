@@ -1,0 +1,198 @@
+[
+    {
+      "question": "What is your return policy?",
+      "answer": "Our return policy allows returns within 30 days of purchase with a receipt."
+    },
+    {
+      "question": "How do I contact customer support?",
+      "answer": "You can contact us at support@example.com or call us at 1-800-123-4567."
+    },
+    {
+      "question": "What products do you offer?",
+      "answer": "We offer a wide range of products including electronics, clothing, and home goods."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to many countries worldwide. Shipping fees and delivery times vary by location."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept credit cards, debit cards, PayPal, and bank transfers."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "You can track your order using the tracking number provided in your shipping confirmation email."
+    },
+    {
+      "question": "Can I change my order after it has been placed?",
+      "answer": "You can change your order within 24 hours of placing it. Please contact our customer support for assistance."
+    },
+    {
+      "question": "What is your privacy policy?",
+      "answer": "We are committed to protecting your privacy. You can read our full privacy policy on our website."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "Click on 'Forgot Password' on the login page and follow the instructions to reset your password."
+    },
+    {
+      "question": "What are your business hours?",
+      "answer": "Our business hours are Monday to Friday, 9 AM to 5 PM."
+    },
+    {
+      "question": "Do you offer gift cards?",
+      "answer": "Yes, we offer gift cards in various denominations. You can purchase them on our website."
+    },
+    {
+      "question": "What is your warranty policy?",
+      "answer": "Our products come with a one-year warranty against manufacturing defects."
+    },
+    {
+      "question": "Can I cancel my subscription?",
+      "answer": "Yes, you can cancel your subscription at any time through your account settings."
+    },
+    {
+      "question": "Do you offer bulk discounts?",
+      "answer": "Yes, we offer discounts for bulk purchases. Please contact our sales team for more information."
+    },
+    {
+      "question": "How can I provide feedback on your products?",
+      "answer": "We welcome your feedback. You can leave a review on our website or contact our customer support."
+    },
+    {
+      "question": "What is your exchange policy?",
+      "answer": "You can exchange items within 30 days of purchase. The items must be in original condition and packaging."
+    },
+    {
+      "question": "Do you have a loyalty program?",
+      "answer": "Yes, we have a loyalty program. You can earn points with each purchase and redeem them for discounts."
+    },
+    {
+      "question": "How do I apply a discount code?",
+      "answer": "Enter the discount code at checkout. The discount will be applied to your total order amount."
+    },
+    {
+      "question": "What should I do if I receive a damaged item?",
+      "answer": "Please contact our customer support immediately if you receive a damaged item. We will assist you with the return or exchange process."
+    },
+    {
+      "question": "How do I unsubscribe from your newsletter?",
+      "answer": "You can unsubscribe from our newsletter by clicking the 'Unsubscribe' link at the bottom of any newsletter email."
+    },
+    {
+      "question": "What is your refund policy?",
+      "answer": "Refunds are processed within 5-7 business days after we receive the returned item. Refunds will be issued to the original payment method."
+    },
+    {
+      "question": "Can I request a product catalog?",
+      "answer": "Yes, you can request a product catalog by contacting our customer support."
+    },
+    {
+      "question": "Do you offer custom orders?",
+      "answer": "Yes, we offer custom orders for select products. Please contact our sales team for more information."
+    },
+    {
+      "question": "How can I check product availability?",
+      "answer": "Product availability is listed on our website. If an item is out of stock, you can sign up to be notified when it is back in stock."
+    },
+    {
+      "question": "What should I do if I forgot my account password?",
+      "answer": "You can reset your password by clicking 'Forgot Password' on the login page and following the instructions."
+    },
+    {
+      "question": "Do you offer free shipping?",
+      "answer": "We offer free shipping on orders over a certain amount. Please check our shipping policy for details."
+    },
+    {
+      "question": "How do I update my account information?",
+      "answer": "You can update your account information by logging into your account and going to the 'Account Settings' section."
+    },
+    {
+      "question": "What is your customer satisfaction guarantee?",
+      "answer": "We strive for 100% customer satisfaction. If you are not satisfied with your purchase, please contact us and we will make it right."
+    },
+    {
+      "question": "Do you offer financing options?",
+      "answer": "Yes, we offer financing options through our partner financial institutions. Please check our website for details."
+    },
+    {
+      "question": "Can I pay with a check?",
+      "answer": "We do not accept checks. We accept credit cards, debit cards, PayPal, and bank transfers."
+    },
+    {
+      "question": "How do I know if my order was successful?",
+      "answer": "You will receive a confirmation email with your order details once your order is successful."
+    },
+    {
+      "question": "Can I schedule a delivery?",
+      "answer": "Yes, you can schedule a delivery at checkout. Delivery times may vary based on your location."
+    },
+    {
+      "question": "How do I apply for a job at your company?",
+      "answer": "You can apply for a job by visiting the 'Careers' section on our website and submitting your application."
+    },
+    {
+      "question": "Do you offer support for your products?",
+      "answer": "Yes, we offer support for all our products. You can contact our support team for assistance."
+    },
+    {
+      "question": "Can I purchase items as a guest?",
+      "answer": "Yes, you can purchase items as a guest without creating an account. However, creating an account allows you to track your order and access additional features."
+    },
+    {
+      "question": "Do you have physical store locations?",
+      "answer": "Yes, we have physical store locations. You can find the nearest store using the 'Store Locator' feature on our website."
+    },
+    {
+      "question": "How do I delete my account?",
+      "answer": "You can delete your account by contacting our customer support. Please note that this action is irreversible."
+    },
+    {
+      "question": "What is the status of my order?",
+      "answer": "You can check the status of your order by logging into your account and going to the 'Order History' section."
+    },
+    {
+      "question": "Can I place an order over the phone?",
+      "answer": "Yes, you can place an order over the phone by contacting our customer support."
+    },
+    {
+      "question": "What should I do if I receive the wrong item?",
+      "answer": "Please contact our customer support immediately if you receive the wrong item. We will assist you with the return or exchange process."
+    },
+    {
+      "question": "Do you offer gift wrapping?",
+      "answer": "Yes, we offer gift wrapping services. You can select this option at checkout."
+    },
+    {
+      "question": "How do I use a promotional code?",
+      "answer": "Enter the promotional code at checkout. The discount will be applied to your total order amount."
+    },
+    {
+      "question": "What are your shipping options?",
+      "answer": "We offer various shipping options, including standard, expedited, and overnight shipping. Please check our shipping policy for details."
+    },
+    {
+      "question": "Can I return an item to a physical store?",
+      "answer": "Yes, you can return items to any of our physical store locations. Please bring your receipt and the item in its original packaging."
+    },
+    {
+      "question": "Do you offer a price match guarantee?",
+      "answer": "Yes, we offer a price match guarantee. Please contact our customer support for more information."
+    },
+    {
+      "question": "What is your policy on backordered items?",
+      "answer": "If an item is backordered, we will notify you and provide an estimated delivery date. You can choose to wait for the item or cancel your order."
+    },
+    {
+      "question": "How can I subscribe to your newsletter?",
+      "answer": "You can subscribe to our newsletter by entering your email address in the subscription box on our website."
+    },
+    {
+      "question": "What should I do if my payment is declined?",
+      "answer": "Please check your payment details and try again. If the problem persists, contact your bank or our customer support."
+    },
+    {
+      "question": "Do you offer digital products?",
+      "answer": "Yes, we offer a lot of digital products."
+    }
+]
